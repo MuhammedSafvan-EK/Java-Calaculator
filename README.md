@@ -21,11 +21,11 @@ A basic calculator application built using Java and Swing, supporting standard a
 
 ---
 
-###📚 Highlights
+### 📚 Highlights
 
-Object-Oriented Programming
-Event-driven GUI design
-Hands-on Swing component layout and handling
+Object-Oriented Programming11 <br>
+Event-driven GUI design <br>
+Hands-on Swing component layout and handling <br>
 
 -----
 
