@@ -28,12 +28,18 @@ Event-driven GUI design <br>
 Hands-on Swing component layout and handling <br>
 
 -----
+## Screenshot
+
+<p align="center">
+  <img src="C:\Users\safva\OneDrive\Pictures\Screenshots" alt="Java Swing Calculator UI" width="400"/>
+</p>
+----
 
 ## 🚀 How to Run
 
-```bash
+``` bash
 javac Calculator.java
-java Calculator
+java Calculator 
 
 
 
