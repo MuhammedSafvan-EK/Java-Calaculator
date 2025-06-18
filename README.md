@@ -30,7 +30,7 @@ Hands-on Swing component layout and handling <br>
 -----
 ## Screenshot
 
-![Java Swing Calculator ](C:\Users\safva\OneDrive\Pictures\Screenshots)
+![Screenshot 2025-06-14 233911](C:\Users\safva\OneDrive\Pictures\Screenshots)
 
 
 ----
