@@ -21,18 +21,20 @@ A basic calculator application built using Java and Swing, supporting standard a
 
 ---
 
+###📚 Highlights
+
+Object-Oriented Programming
+Event-driven GUI design
+Hands-on Swing component layout and handling
+
+-----
+
 ## 🚀 How to Run
 
 ```bash
 javac Calculator.java
 java Calculator
 
-📚 Highlights
-Object-Oriented Programming
-
-Event-driven GUI design
-
-Hands-on Swing component layout and handling
 
 
 
